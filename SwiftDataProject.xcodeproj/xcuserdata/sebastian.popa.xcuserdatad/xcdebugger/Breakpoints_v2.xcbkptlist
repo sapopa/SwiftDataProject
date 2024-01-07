@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B34B542A-D832-4267-9703-983B626E6333"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F572697-B033-4CAD-99DE-8A1710A1D960"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../var/folders/rc/20q_ffnx2mg0q829q4mhp5mr0000gq/T/swift-generated-sources/@__swiftmacro_16SwiftDataProject11ContentViewV5users5QueryfMp_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8F572697-B033-4CAD-99DE-8A1710A1D960 - 131eb18e372ba3ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftDataProject.ContentView.init() -&gt; SwiftDataProject.ContentView"
+                  moduleName = "SwiftDataProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/rc/20q_ffnx2mg0q829q4mhp5mr0000gq/T/swift-generated-sources/@__swiftmacro_16SwiftDataProject11ContentViewV5users5QueryfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "8F572697-B033-4CAD-99DE-8A1710A1D960 - 79eb27bd1892b02a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of SwiftDataProject.ContentView.init(modelContext: SwiftUI.Environment&lt;SwiftData.ModelContext&gt;, _users: _SwiftData_SwiftUI.Query&lt;SwiftDataProject.User, Swift.Array&lt;SwiftDataProject.User&gt;&gt;) -&gt; SwiftDataProject.ContentView"
+                  moduleName = "SwiftDataProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastian.popa/Desktop/ioslearning/100%20Days%20of%20SwiftUI/Project12_SwiftDataProject/SwiftDataProject/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

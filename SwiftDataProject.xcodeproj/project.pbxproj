@@ -11,6 +11,9 @@
 		B6E5C74C2B4B288500793713 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E5C74B2B4B288500793713 /* ContentView.swift */; };
 		B6E5C74E2B4B288700793713 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E5C74D2B4B288700793713 /* Assets.xcassets */; };
 		B6E5C7512B4B288700793713 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E5C7502B4B288700793713 /* Preview Assets.xcassets */; };
+		B6E5C7582B4B28B200793713 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E5C7572B4B28B200793713 /* User.swift */; };
+		B6E5C75C2B4B308500793713 /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E5C75B2B4B308500793713 /* UsersView.swift */; };
+		B6E5C75E2B4B352C00793713 /* Job.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E5C75D2B4B352C00793713 /* Job.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		B6E5C74B2B4B288500793713 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B6E5C74D2B4B288700793713 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6E5C7502B4B288700793713 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B6E5C7572B4B28B200793713 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		B6E5C75B2B4B308500793713 /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
+		B6E5C75D2B4B352C00793713 /* Job.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Job.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,8 +59,11 @@
 			children = (
 				B6E5C7492B4B288500793713 /* SwiftDataProjectApp.swift */,
 				B6E5C74B2B4B288500793713 /* ContentView.swift */,
+				B6E5C75B2B4B308500793713 /* UsersView.swift */,
+				B6E5C7572B4B28B200793713 /* User.swift */,
 				B6E5C74D2B4B288700793713 /* Assets.xcassets */,
 				B6E5C74F2B4B288700793713 /* Preview Content */,
+				B6E5C75D2B4B352C00793713 /* Job.swift */,
 			);
 			path = SwiftDataProject;
 			sourceTree = "<group>";
@@ -139,6 +148,9 @@
 			files = (
 				B6E5C74C2B4B288500793713 /* ContentView.swift in Sources */,
 				B6E5C74A2B4B288500793713 /* SwiftDataProjectApp.swift in Sources */,
+				B6E5C7582B4B28B200793713 /* User.swift in Sources */,
+				B6E5C75C2B4B308500793713 /* UsersView.swift in Sources */,
+				B6E5C75E2B4B352C00793713 /* Job.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
